@@ -1,5 +1,3 @@
-# AUTOMATIZATION-OF-CONTRACT-ADMINISTRATION-DOCUMENTATION-IN-ECUADOR-PUBLIC-SERVICE
-
 # 🧾 Automatización de Documentación para Administración de Contratos en el Servicio Público del Ecuador
 
 Este proyecto automatiza la extracción de información clave desde órdenes de compra en PDF y facilita su integración con documentos Word vinculados a un archivo maestro de Excel, cumpliendo con los procesos administrativos del sector público en Ecuador.
