@@ -35,15 +35,15 @@ AUTOMATIZATION-OF-CONTRACT-ADMINISTRATION-DOCUMENTATION-IN-ECUADOR-PUBLIC-SERVIC
 
 │
 
-├── extractor.py           # Script principal de extracción
+├──> extractor.py           # Script principal de extracción
 
-├── README.md              # Este archivo
+├──> README.md              # Este archivo
 
-├── datos.xlsx             # Excel maestro con los datos extraídos
+├──> datos.xlsx             # Excel maestro con los datos extraídos
 
-├── plantilla.docx         # Plantilla Word vinculada al Excel
+├──> plantilla.docx         # Plantilla Word vinculada al Excel
 
-└── ejemplos/              # PDFs de ejemplo
+└──> ejemplos/              # PDFs de ejemplo
 
 ---
 
