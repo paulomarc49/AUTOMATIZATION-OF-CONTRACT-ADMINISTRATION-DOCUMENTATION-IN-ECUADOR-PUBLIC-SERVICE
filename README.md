@@ -25,10 +25,7 @@ Este proyecto automatiza la extracción de información clave desde órdenes de 
 ## 🧠 Requisitos
 
 - Python 3.8 o superior
-- Librerías:
-
-```bash
-pip install PyMuPDF openpyxl
+- Librerías: PyMuPDF y openpyxl
 
 ---
 
