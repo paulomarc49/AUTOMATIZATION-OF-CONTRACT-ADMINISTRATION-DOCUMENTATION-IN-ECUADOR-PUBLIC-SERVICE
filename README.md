@@ -34,9 +34,13 @@ Este proyecto automatiza la extracción de información clave desde órdenes de 
 AUTOMATIZATION-OF-CONTRACT-ADMINISTRATION-DOCUMENTATION-IN-ECUADOR-PUBLIC-SERVICE/
 │
 ├── extractor.py           # Script principal de extracción
+
 ├── README.md              # Este archivo
+
 ├── datos.xlsx             # Excel maestro con los datos extraídos
+
 ├── plantilla.docx         # Plantilla Word vinculada al Excel
+
 └── ejemplos/              # PDFs de ejemplo
 
 ---
