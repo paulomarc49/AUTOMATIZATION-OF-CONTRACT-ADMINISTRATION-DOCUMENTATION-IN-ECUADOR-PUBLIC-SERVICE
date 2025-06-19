@@ -32,7 +32,9 @@ Este proyecto automatiza la extracción de información clave desde órdenes de 
 ## 📁 Estructura del Proyecto
 
 AUTOMATIZATION-OF-CONTRACT-ADMINISTRATION-DOCUMENTATION-IN-ECUADOR-PUBLIC-SERVICE/
+
 │
+
 ├── extractor.py           # Script principal de extracción
 
 ├── README.md              # Este archivo
